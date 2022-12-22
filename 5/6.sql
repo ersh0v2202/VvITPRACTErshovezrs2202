@@ -1,0 +1,2 @@
+DELETE FROM Table1
+WHERE №=3
